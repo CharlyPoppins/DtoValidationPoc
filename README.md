@@ -1,5 +1,12 @@
 # Reusable DTO Validation
 
+## ⚠ This homemade feature is now outdated
+
+With Symfony 6.3 we can now use `MapRequestPayload`
+
+[https://symfony.com/blog/new-in-symfony-6-3-mapping-request-data-to-typed-objects](https://symfony.com/blog/new-in-symfony-6-3-mapping-request-data-to-typed-objects)
+
+
 ## Try it at home
 
 #### Launch web server
